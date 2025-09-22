@@ -352,16 +352,29 @@ body {
     }
 }
 
-@media screen and (max-width: 500px) {
-    .profile h2 {
-        font-size: 16px;
+@media screen and (max-width: 550px) {
+    .main-content {
+        grid-template-columns: 1fr;
+        padding: 15px;
     }
 
-    .profile p {
+    #navigation nav a {
         font-size: 12px;
     }
-}
 
-.profile h2, .heading {
-    font-family: 'Montserrat', sans-serif;
+    .sidebar {
+        position: static;
+        max-width: 400px;   /* keep it narrower */
+        width: 95%;        /* responsive, but capped by max-width */
+        margin: auto; /* center it with space left/right */
+        height: auto;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .main-content {
+        width: 100%;
+        max-width: 95%;   /* keep some breathing room */
+        margin: 0 auto;
+    }
 }
