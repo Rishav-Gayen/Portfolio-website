@@ -9,9 +9,6 @@ Currently, the site is live with an introduction and design foundation. My **pro
 ## 🖥️ Tech Stack  
 This portfolio is built with:  
 - **HTML5** / **CSS3**  
-- **JavaScript (ES6+)**  
-- *(Optional: React, Tailwind, etc. → list what you’re actually using)*  
-
 ---
 
 ## ✨ Features  
@@ -37,7 +34,7 @@ I’m **Rishav Gayen**, a frontend developer passionate about crafting **intuiti
 ---
 
 ## 🔗 Connect With Me  
-- **Portfolio Website:** [Live Link](#)  
+- **Portfolio Website:** [Live Link](https://rishav-gayen.github.io/Portfolio-website/)  
 - **LinkedIn:** [Rishav Gayen](https://www.linkedin.com/in/rishav-gayen-8879661b5/)  
 - **Email:** gayenrishav19@gmail.com  
 
